@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Windyy-1007
+# 👋 Hi, I’m Nguyễn Hữu Nam Phong "Windyy-1007"
 - 👀 I’m interested in Large Language Model, Decision-Making Arifactial Intelligence and RPG-Video Games
 - 🌱 I’m currently learning at Ho Chi Minh City University of Technology (HCMUT)
 
